@@ -3,6 +3,15 @@
   doMINION
 </h1>
 
+This project was created as part of the course "Software Engineering" at ETH
+Zürich.
+It is a digital version of the card game Dominion, which is a deck-building
+game created by Donald X. Vaccarino and published by Rio Grande Games.
+
+The project was originally developed on an internal GitLab repository of ETH
+Zürich.
+This is a clone of the repository, which I created to make the project public.
+
 ## Installation
 
 ### Ubuntu 24.04
