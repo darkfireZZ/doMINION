@@ -19,6 +19,13 @@ list(APPEND CMAKE_CTEST_ARGUMENTS "--output-on-failure" "--timeout" "10")
 # exposes the root dir path to all (cpp) project files
 add_compile_definitions(PROJECT_ROOT="${CMAKE_SOURCE_DIR}") 
 
+# Uncomment to disable fullscreen mode
+#
+# For some reason, the game is not displayed correctly in fullscreen mode on some systems
+# Enabling this flag might fix the issue
+#
+# add_definitions(-DNO_FULLSCREEN)
+
 add_compile_options(
     -Wall
     -Wextra
