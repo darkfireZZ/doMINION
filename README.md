@@ -5,8 +5,12 @@
 
 This project was created as part of the course "Software Engineering" at ETH
 Zürich.
-It is a digital version of the card game Dominion, which is a deck-building
-game created by Donald X. Vaccarino and published by Rio Grande Games.
+The goal was to develop a digital version of a board game in a team.
+
+Our team of 6 students developed a digital version of the card game Dominion.
+doMINION is a online multiplayer implementation of Dominion, which is a
+deck-building game created by Donald X. Vaccarino and published by Rio Grande
+Games.
 
 The project was originally developed on an internal GitLab repository of ETH
 Zürich.
@@ -83,6 +87,8 @@ Then, start anywhere from 2 to 4 clients
 ```
 
 ### Running on `se.nicolabruhin.com`
+
+(Note that this might not work anymore when you read this)
 
 If you like, you can also play a round of Dominion on our server.
 To do so, start the client with the following command:
